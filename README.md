@@ -1,3 +1,9 @@
+## What this Repo is for ?
+It contains source code for tutorial published at
+https://medium.com/@mansha99/laravel-fixtures-using-sushi-4f5eb8a4c4e5 
+### What it demonstrates?
+Using Sushi package to create Fixtures in Laravel
+***
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
